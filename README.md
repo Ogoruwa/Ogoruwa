@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ogoruwa
 - 👀 I’m interested in having fun with computers
-- 🌱 I’m currently learning: Django
+- 🌱 I’m currently learning: C, Sui Move
 - 💞️ I’m looking to collaborate on: Nothing at the moment
 - 📫 How to reach me : My email
-- ⚡ Fun fact: Googol is a number equal to 10 to the 100th power
+- ⚡ Fun fact: The PC platform lacks quality volleyball games
